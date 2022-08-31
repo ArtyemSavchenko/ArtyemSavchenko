@@ -1,25 +1,9 @@
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+♠️ профессионально играл в турнирный покер, учился у очень крутых ребят  
+🧑🏻‍💻 теперь занимаюсь веб-разработкой  
+😏 нравится делать красивые и функциональные интерфейсы  
+😤 не нравится много писать про себя  
+🎮 в игры играю исключительно с геймпада  
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+[![codewars](https://www.codewars.com/users/ArtyemSavchenko/badges/micro)](https://www.codewars.com/users/ArtyemSavchenko)  
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-[![codewars](https://www.codewars.com/users/ArtyemSavchenko/badges/large)](https://www.codewars.com/users/ArtyemSavchenko)
-
-<!--
-**ArtyemSavchenko/ArtyemSavchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/artyem_savchenko)
